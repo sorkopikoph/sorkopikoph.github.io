@@ -1,0 +1,4144 @@
+{
+    "inventory": {
+        "weapon": [
+            {
+                "ID": 66
+            }
+        ],
+        "item": [
+            {
+                "N": 10,
+                "ID": 1
+            },
+            {
+                "ID": 100
+            },
+            {
+                "ID": 76
+            }
+        ],
+        "outfit": [],
+        "relic": [],
+        "boots": [],
+        "hat": [
+            {
+                "ID": 17
+            },
+            {
+                "ID": 20
+            },
+            {
+                "ID": 19
+            },
+            {
+                "ID": 18
+            },
+            {
+                "ID": 16
+            },
+            {
+                "ID": 14
+            },
+            {
+                "ID": 9
+            },
+            {
+                "ID": 72
+            }
+        ],
+        "currency": [
+            {
+                "N": "1",
+                "ID": 2
+            },
+            {
+                "N": "1",
+                "ID": 3
+            },
+            {
+                "N": "1",
+                "ID": 4
+            },
+            {
+                "N": "1",
+                "ID": 5
+            },
+            {
+                "N": "1",
+                "ID": 6
+            },
+            {
+                "N": "1",
+                "ID": 7
+            },
+            {
+                "N": "1",
+                "ID": 8
+            },
+            {
+                "N": "1",
+                "ID": 9
+            },
+            {
+                "N": "1",
+                "ID": 10
+            },
+            {
+                "N": "1",
+                "ID": 11
+            },
+            {
+                "N": "1",
+                "ID": 12
+            },
+            {
+                "N": "1",
+                "ID": 13
+            },
+            {
+                "N": "1",
+                "ID": 14
+            },
+            {
+                "N": "1",
+                "ID": 15
+            },
+            {
+                "N": "1",
+                "ID": 16
+            },
+            {
+                "N": "1",
+                "ID": 17
+            },
+            {
+                "N": "1",
+                "ID": 18
+            },
+            {
+                "N": "1",
+                "ID": 19
+            },
+            {
+                "N": "1",
+                "ID": 20
+            },
+            {
+                "N": "1",
+                "ID": 21
+            },
+            {
+                "N": "1",
+                "ID": 22
+            },
+            {
+                "N": "1",
+                "ID": 23
+            },
+            {
+                "N": "1",
+                "ID": 24
+            },
+            {
+                "N": "1",
+                "ID": 25
+            }
+        ],
+        "fossil": [],
+        "follow": [
+            {
+                "N": 2,
+                "ID": 125
+            },
+            {
+                "N": 2,
+                "ID": 126
+            },
+            {
+                "N": 2,
+                "ID": 127
+            },
+            {
+                "N": 2,
+                "ID": 128
+            },
+            {
+                "N": 2,
+                "ID": 129
+            },
+            {
+                "N": 2,
+                "ID": 134
+            },
+            {
+                "N": 2,
+                "ID": 135
+            },
+            {
+                "N": 2,
+                "ID": 136
+            },
+            {
+                "N": 2,
+                "ID": 137
+            },
+            {
+                "ID": 34
+            }
+        ],
+        "mount": [
+            {
+                "ID": 1
+            }
+        ],
+        "key": [],
+        "spellRelic": []
+    },
+    "quests": {
+        "3": {
+            "A": 1,
+            "B": 1,
+            "C": 1
+        },
+        "4": {
+            "A": 1,
+            "B": 1,
+            "C": 4
+        },
+        "6": {
+            "A": 1,
+            "B": 1,
+            "C": 4,
+            "M": [
+                {
+                    "N": 3,
+                    "ID": 27
+                },
+                {
+                    "N": 1,
+                    "ID": 38
+                }
+            ]
+        },
+        "8": {
+            "day": 1
+        }
+    },
+    "achievements": {
+        "kills": 500,
+        "progress": {
+            "1": 1,
+            "2": 3,
+            "3": 1,
+            "4": 3,
+            "5": 3,
+            "6": 3,
+            "7": 1,
+            "8": 4,
+            "9": 5,
+            "10": 2,
+            "11": 4,
+            "12": 1,
+            "16": 1,
+            "18": 1,
+            "20": 1,
+            "25": 1,
+            "28": 3,
+            "29": 3,
+            "30": 4,
+            "31": 4,
+            "32": 1,
+            "34": 1,
+            "38": 1,
+            "42": 4,
+            "43": 1,
+            "44": 1
+        },
+        "qC": 736,
+        "gS": 46160,
+        "gE": 1000035800
+    },
+    "state": {
+        "world": {
+            "bounties": [
+                51728325.92422839,
+                49482538.30013718,
+                113309236.53552812
+            ],
+            "dailyQuests": {
+                "0": {
+                    "dateId": 18852,
+                    "questId": 0,
+                    "questState": 0
+                }
+            }
+        },
+        "tutorial": {},
+        "zone": {
+            "lamplight": {
+                "2": "08132021",
+                "3": {
+                    "date": "08112021",
+                    "flags": [
+                        1,
+                        1,
+                        1,
+                        1,
+                        1
+                    ],
+                    "rewards": 0
+                },
+                "quest": {
+                    "ID": 2
+                }
+            },
+            "house": {
+                "quest": {
+                    "ID": 2
+                }
+            },
+            "tower_town": {
+                "towns": {
+                    "6": {
+                        "10": {
+                            "11": true,
+                            "13": true,
+                            "18": 0
+                        },
+                        "20": [
+                            {
+                                "6": [
+                                    {
+                                        "1": 10,
+                                        "7": 5,
+                                        "9": false,
+                                        "12": true,
+                                        "15": 0,
+                                        "17": 4,
+                                        "19": 841,
+                                        "21": 0
+                                    },
+                                    {
+                                        "1": 10,
+                                        "7": 2,
+                                        "9": false,
+                                        "12": true,
+                                        "15": 0,
+                                        "17": 1,
+                                        "19": 934,
+                                        "21": 0
+                                    },
+                                    {
+                                        "1": 10,
+                                        "7": 6,
+                                        "9": false,
+                                        "12": true,
+                                        "15": 0,
+                                        "17": 5,
+                                        "19": 450,
+                                        "21": 0
+                                    },
+                                    {
+                                        "1": 10,
+                                        "7": 5,
+                                        "9": false,
+                                        "12": true,
+                                        "15": 0,
+                                        "17": 4,
+                                        "19": 787,
+                                        "21": 0
+                                    },
+                                    {
+                                        "1": 10,
+                                        "7": 2,
+                                        "9": false,
+                                        "12": true,
+                                        "15": 0,
+                                        "17": 1,
+                                        "19": 789,
+                                        "21": 0
+                                    },
+                                    {
+                                        "1": 10,
+                                        "7": 4,
+                                        "9": false,
+                                        "12": true,
+                                        "15": 0,
+                                        "17": 3,
+                                        "19": 308,
+                                        "21": 0
+                                    },
+                                    {
+                                        "1": 10,
+                                        "7": 2,
+                                        "9": false,
+                                        "12": true,
+                                        "15": 0,
+                                        "17": 1,
+                                        "19": 1106,
+                                        "21": 0
+                                    },
+                                    {
+                                        "1": 10,
+                                        "7": 4,
+                                        "9": false,
+                                        "12": true,
+                                        "15": 0,
+                                        "17": 3,
+                                        "19": 792,
+                                        "21": 0
+                                    },
+                                    {
+                                        "1": 10,
+                                        "7": 2,
+                                        "9": false,
+                                        "12": true,
+                                        "15": 0,
+                                        "17": 1,
+                                        "19": 337,
+                                        "21": 0
+                                    },
+                                    {
+                                        "1": 10,
+                                        "7": 3,
+                                        "9": false,
+                                        "12": true,
+                                        "15": 0,
+                                        "17": 2,
+                                        "19": 336,
+                                        "21": 0
+                                    },
+                                    {
+                                        "1": 10,
+                                        "7": 6,
+                                        "9": false,
+                                        "12": true,
+                                        "15": 0,
+                                        "17": 5,
+                                        "19": 373,
+                                        "21": 0
+                                    },
+                                    {
+                                        "1": 10,
+                                        "7": 6,
+                                        "9": false,
+                                        "12": true,
+                                        "15": 0,
+                                        "17": 5,
+                                        "19": 327,
+                                        "21": 0
+                                    },
+                                    {
+                                        "1": 10,
+                                        "7": 4,
+                                        "9": false,
+                                        "12": true,
+                                        "15": 0,
+                                        "17": 3,
+                                        "19": 309,
+                                        "21": 0
+                                    },
+                                    {
+                                        "1": 10,
+                                        "7": 3,
+                                        "9": false,
+                                        "12": true,
+                                        "15": 0,
+                                        "17": 2,
+                                        "19": 567,
+                                        "21": 0
+                                    }
+                                ],
+                                "11": true,
+                                "13": false,
+                                "18": 0
+                            }
+                        ]
+                    },
+                    "8": {
+                        "10": {
+                            "11": true,
+                            "13": true,
+                            "18": 0
+                        },
+                        "20": [
+                            {
+                                "6": [
+                                    {
+                                        "1": 0,
+                                        "7": 2,
+                                        "9": false,
+                                        "12": true,
+                                        "15": 0,
+                                        "17": 1,
+                                        "19": 599,
+                                        "21": 1
+                                    },
+                                    {
+                                        "1": 10,
+                                        "7": 5,
+                                        "9": false,
+                                        "12": true,
+                                        "15": 0,
+                                        "17": 4,
+                                        "19": 610,
+                                        "21": 0
+                                    },
+                                    {
+                                        "1": 10,
+                                        "7": 3,
+                                        "9": false,
+                                        "12": true,
+                                        "15": 0,
+                                        "17": 2,
+                                        "19": 855,
+                                        "21": 0
+                                    },
+                                    {
+                                        "1": 10,
+                                        "7": 6,
+                                        "9": false,
+                                        "12": true,
+                                        "15": 0,
+                                        "17": 5,
+                                        "19": 854,
+                                        "21": 0
+                                    },
+                                    {
+                                        "1": 10,
+                                        "7": 2,
+                                        "9": false,
+                                        "12": true,
+                                        "15": 0,
+                                        "17": 1,
+                                        "19": 357,
+                                        "21": 0
+                                    },
+                                    {
+                                        "1": 10,
+                                        "7": 5,
+                                        "9": false,
+                                        "12": true,
+                                        "15": 0,
+                                        "17": 4,
+                                        "19": 525,
+                                        "21": 0
+                                    }
+                                ],
+                                "11": true,
+                                "13": false,
+                                "18": 0
+                            }
+                        ]
+                    }
+                }
+            },
+            "bonfire_spire": {
+                "quest": {
+                    "ID": 1,
+                    "state": {},
+                    "seq": 0,
+                    "req": {
+                        "type": "seq",
+                        "N": 1
+                    }
+                }
+            }
+        },
+        "breadcrumbs": {
+            "FEATURE_HOUSE_VISITING": 1,
+            "FEATURE_ELEMENTAL_GUARDIAN": 2,
+            "FEATURE_HOUSE_MOVING": 1,
+            "FEATURE_TOWERTOWN": 137,
+            "FEATURE_EG_ARENA": 513,
+            "FEATURE_STYLIST": 1
+        },
+        "dungeons": {
+            "crystal_caverns": {
+                "persistentData": {
+                    "bossesStatus": 0
+                },
+                "phaseData": {
+                    "mapObjectStatus": {
+                        "0": 67108864
+                    },
+                    "checkpoint": {
+                        "facingDirection": -1,
+                        "index": 1,
+                        "location": {
+                            "x": 2959,
+                            "y": 5601
+                        }
+                    }
+                },
+                "runData": {
+                    "bossesStatus": 0,
+                    "currentMap": "crystal_caverns-1",
+                    "seed": 1588949871753,
+                    "level": 1
+                }
+            }
+        },
+        "towers": {
+            "earthtower": {
+                "achievementPagesCount": 1,
+                "wardenSaved": true,
+                "floors": 0,
+                "boss": true,
+                "achievementMonstersCount": 0
+            },
+            "icetower": {
+                "achievementPagesCount": 0,
+                "achievementMonstersCount": 0
+            }
+        }
+    },
+    "data": {
+        "battleCounter": 48,
+        "segmentPurchaseFunnel": "798a0938-ced5-44e3-83a0-4726f2f1b873",
+        "dungeonRunsTimeStamps": [
+            {
+                "dungeonName": "archives",
+                "lastRunTimeStamp": 1555374435011
+            },
+            {
+                "dungeonName": "earthtower",
+                "lastRunTimeStamp": 1586794526632
+            }
+        ],
+        "hp": 500,
+        "memberStarsExpirationDate": 1607317199000,
+        "arena": 7,
+        "allowsHouseVisitors": true,
+        "membershipVideoTimeStamp": 1628695635356,
+        "gold": 0,
+        "numSpins1": 4,
+        "loss": 3,
+        "numSpins2": 1,
+        "versionID": 38,
+        "academyTowersFunnelsData": [],
+        "spellbook": [
+            25,
+            34,
+            33,
+            19,
+            13,
+            7
+        ],
+        "rate": 5,
+        "zone": "bonfire_spire-C1",
+        "school": "none",
+        "spells": [
+            13,
+            7,
+            19,
+            25,
+            1
+        ],
+        "win": 7,
+        "bountyScore": 1,
+        "tower": 1,
+        "energy": 2,
+        "settings": {
+            "bgmVolume": 0.05,
+            "voiceVolume": 1,
+            "sfxVolume": 1
+        },
+        "level": 2,
+        "storedMemberStars": 0,
+        "previousZone": "bonfire_spire-C1",
+        "stars": 26376,
+        "team": 0,
+        "spinDate1": 1607230800000,
+        "spinDate2": 1558584000000,
+        "titanID": 1028,
+        "daily": {
+            "festivalName": "Summerfest",
+            "lastStarted": 1623729600000,
+            "location": "lamplight-A3",
+            "isComplete": false,
+            "monsterID": 151
+        },
+        "grade": 1,
+        "nm": 2,
+        "rewardData": {
+            "type": "gold",
+            "N": 2000
+        }
+    },
+    "isMember": 0,
+    "tutorial": {
+        "zones": {},
+        "menus": {
+            "14": [
+                1
+            ]
+        }
+    },
+    "pets": [
+        {
+            "level": "68",
+            "levelCaught": 1,
+            "ID": 125,
+            "stars": 1e+69,
+            "team": 1,
+            "catchDate": 1586793660634,
+            "foreignSpells": [
+                55,
+                64
+            ]
+        },
+        {
+            "levelCaught": 1,
+            "ID": 126,
+            "stars": 1e+69,
+            "catchDate": 1586793660634,
+            "level": 1e+69,
+            "foreignSpells": [
+                20,
+                82
+            ]
+        },
+        {
+            "levelCaught": 1,
+            "ID": 127,
+            "stars": 1e+69,
+            "catchDate": 1586793660634,
+            "level": 1e+69,
+            "foreignSpells": [
+                6,
+                49
+            ]
+        },
+        {
+            "levelCaught": 1,
+            "ID": 128,
+            "stars": 1e+69,
+            "catchDate": 1586793660634,
+            "level": 1e+69,
+            "foreignSpells": [
+                61,
+                67
+            ]
+        },
+        {
+            "levelCaught": 1,
+            "ID": 129,
+            "stars": 1e+69,
+            "catchDate": 1586793660634,
+            "level": 1e+69,
+            "foreignSpells": [
+                49,
+                62
+            ]
+        },
+        {
+            "levelCaught": 1,
+            "ID": 130,
+            "stars": 1e+69,
+            "catchDate": 1586793660634,
+            "level": 1e+69,
+            "foreignSpells": [
+                20,
+                18
+            ]
+        },
+        {
+            "levelCaught": 1,
+            "ID": 131,
+            "stars": 1e+69,
+            "catchDate": 1586793660634,
+            "level": 1e+69,
+            "foreignSpells": [
+                85,
+                64
+            ]
+        },
+        {
+            "levelCaught": 1,
+            "ID": 132,
+            "stars": 1e+69,
+            "catchDate": 1586793660634,
+            "level": 1e+69,
+            "foreignSpells": [
+                42,
+                88
+            ]
+        },
+        {
+            "levelCaught": 1,
+            "ID": 133,
+            "stars": 1e+69,
+            "catchDate": 1586793660634,
+            "level": 1e+69,
+            "foreignSpells": [
+                32,
+                17
+            ]
+        },
+        {
+            "levelCaught": 1,
+            "ID": 125,
+            "stars": 1e+69,
+            "catchDate": 1591962877344,
+            "level": 1e+69,
+            "foreignSpells": [
+                55,
+                64
+            ]
+        },
+        {
+            "levelCaught": 1,
+            "ID": 126,
+            "stars": 1e+69,
+            "catchDate": 1591962877344,
+            "level": 1e+69,
+            "foreignSpells": [
+                57,
+                21
+            ]
+        },
+        {
+            "levelCaught": 1,
+            "ID": 127,
+            "stars": 1e+69,
+            "catchDate": 1591962877344,
+            "level": 1e+69,
+            "foreignSpells": [
+                8,
+                4
+            ]
+        },
+        {
+            "level": 1e+69,
+            "levelCaught": 1,
+            "ID": 128,
+            "stars": 1e+69,
+            "team": 2,
+            "catchDate": 1591962877344,
+            "foreignSpells": [
+                49,
+                40
+            ]
+        },
+        {
+            "levelCaught": 1,
+            "ID": 129,
+            "stars": 1e+69,
+            "catchDate": 1591962877344,
+            "level": 1e+69,
+            "foreignSpells": [
+                83,
+                15
+            ]
+        },
+        {
+            "levelCaught": 1,
+            "ID": 130,
+            "stars": 1e+69,
+            "catchDate": 1591962877344,
+            "level": 1e+69,
+            "foreignSpells": [
+                84,
+                86
+            ]
+        },
+        {
+            "levelCaught": 1,
+            "ID": 131,
+            "stars": 1e+69,
+            "catchDate": 1591962877344,
+            "level": 1e+69,
+            "foreignSpells": [
+                41,
+                94
+            ]
+        },
+        {
+            "levelCaught": 1,
+            "ID": 132,
+            "stars": 1e+69,
+            "catchDate": 1591962877344,
+            "level": 1e+69,
+            "foreignSpells": [
+                53,
+                87
+            ]
+        },
+        {
+            "levelCaught": 1,
+            "ID": 133,
+            "stars": 1e+69,
+            "catchDate": 1591962877344,
+            "level": 1e+69,
+            "foreignSpells": [
+                15,
+                43
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 1,
+            "catchDate": 1626458737470,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                84
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 2,
+            "catchDate": 1626458737470,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                84
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 3,
+            "catchDate": 1626458737470,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                84
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 4,
+            "catchDate": 1626458737470,
+            "level": "100",
+            "foreignSpells": [
+                81,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 5,
+            "catchDate": 1626458737470,
+            "level": "100",
+            "foreignSpells": [
+                81,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 6,
+            "catchDate": 1626458737470,
+            "level": "100",
+            "foreignSpells": [
+                81,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 7,
+            "catchDate": 1626458737470,
+            "level": "100",
+            "foreignSpells": [
+                81,
+                78
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 8,
+            "catchDate": 1626458737470,
+            "level": "100",
+            "foreignSpells": [
+                81,
+                78
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 9,
+            "catchDate": 1626458737470,
+            "level": "100",
+            "foreignSpells": [
+                81,
+                78
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 10,
+            "catchDate": 1626458737470,
+            "level": "100",
+            "foreignSpells": [
+                61,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 11,
+            "catchDate": 1626458737470,
+            "level": "100",
+            "foreignSpells": [
+                61,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 12,
+            "catchDate": 1626458737470,
+            "level": "100",
+            "foreignSpells": [
+                61,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 13,
+            "catchDate": 1626458737470,
+            "level": "100",
+            "foreignSpells": [
+                61,
+                67
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 14,
+            "catchDate": 1626458737470,
+            "level": "100",
+            "foreignSpells": [
+                61,
+                67
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 15,
+            "catchDate": 1626458737470,
+            "level": "100",
+            "foreignSpells": [
+                64,
+                70
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 16,
+            "catchDate": 1626458737470,
+            "level": "100",
+            "foreignSpells": [
+                67,
+                70
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 17,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                67,
+                70
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 18,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                61,
+                64
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 19,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                61,
+                64
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 20,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                55,
+                84
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 21,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                55,
+                84
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 22,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                55,
+                84
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 23,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                67,
+                75
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 24,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                67,
+                75
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 25,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                61,
+                64
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 26,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                61,
+                64
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 27,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                81,
+                61
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 28,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                81,
+                61
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 29,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                78
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 30,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                78
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 31,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                81,
+                61
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 32,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                78
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 33,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                61,
+                64
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 34,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                78,
+                84
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 35,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                55,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 36,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                61,
+                64
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 37,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                78
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 38,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                67,
+                70
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 39,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                67,
+                70
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 40,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                61,
+                64
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 41,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                61,
+                64
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 42,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                61,
+                64
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 43,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                67,
+                61
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 44,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                67,
+                61
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 45,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                70,
+                78
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 46,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                61,
+                75
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 47,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                61,
+                75
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 48,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                78
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 49,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                78
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 50,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                70,
+                84
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 51,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                70,
+                84
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 52,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                55,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 53,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                55,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 54,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                55,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 55,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                81
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 56,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                84,
+                64
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 57,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                84,
+                64
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 58,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                61,
+                81
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 59,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                55,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 60,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                55,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 61,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                61
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 62,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                67,
+                70
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 63,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                81,
+                78
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 64,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                81,
+                78
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 65,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                81,
+                78
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 66,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                67,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 67,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                67,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 68,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                67,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 69,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                61,
+                84
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 70,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                61,
+                84
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 71,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                61,
+                84
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 72,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                81,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 73,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                81,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 74,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                81,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 75,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                67
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 76,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                67
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 77,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                67
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 78,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                55
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 79,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                55
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 80,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                55
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 81,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                55,
+                61
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 82,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                55,
+                61
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 83,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                55,
+                61
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 84,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                67,
+                81
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 85,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                67,
+                81
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 86,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                67,
+                81
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 87,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                78
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 88,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                78
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 89,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                78
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 90,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                55,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 91,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                55,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 92,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                55,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 93,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                55,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 94,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                67,
+                70
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 95,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                67,
+                70
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 96,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                67,
+                70
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 97,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                81,
+                78
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 98,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 99,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                67
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 100,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                67
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 101,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                67
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 102,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                61,
+                64
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 103,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                61,
+                64
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 104,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                61,
+                64
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 105,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                67,
+                64
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 106,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                67,
+                64
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 107,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                61,
+                55
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 108,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                61,
+                55
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 109,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                81,
+                84
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 110,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                81,
+                84
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 111,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                61
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 112,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                61
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 113,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                55,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 114,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                55,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 115,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                78
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 116,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                78
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 117,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                78
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 118,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                67,
+                70
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 119,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                67,
+                70
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 120,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                78
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 121,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                78
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 122,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                67,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 123,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                67,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 124,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                67,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 125,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                55,
+                64
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 126,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                81,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 127,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                84
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 128,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                61,
+                67
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 129,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                64
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 130,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                81,
+                84
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 131,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                70,
+                64
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 132,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                61,
+                70
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 133,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                81,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 134,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                78
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 135,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                61,
+                84
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 136,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                81,
+                78
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 137,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                81,
+                78
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 138,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                81,
+                78
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 139,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                84
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 140,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                84
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 141,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                75,
+                84
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 142,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                81,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 143,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                81,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 144,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                81,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 145,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                61,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 146,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                61,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 147,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                61,
+                58
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 148,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                67,
+                84
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 149,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                67,
+                84
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 150,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                67,
+                84
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 151,
+            "catchDate": 1626458737471,
+            "level": "100",
+            "foreignSpells": [
+                61,
+                84
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 152,
+            "catchDate": 1626458737472,
+            "level": "100",
+            "foreignSpells": [
+                73,
+                92
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 153,
+            "catchDate": 1626458737472,
+            "level": "100",
+            "foreignSpells": [
+                73,
+                92
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 154,
+            "catchDate": 1626458737472,
+            "level": "100",
+            "foreignSpells": [
+                73,
+                92
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 155,
+            "catchDate": 1626458737472,
+            "level": "100",
+            "foreignSpells": [
+                81,
+                78
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 156,
+            "catchDate": 1626458737472,
+            "level": "100",
+            "foreignSpells": [
+                55,
+                78
+            ]
+        },
+        {
+            "levelCaught": "100",
+            "ID": 157,
+            "catchDate": 1626458737472,
+            "level": "100",
+            "foreignSpells": [
+                81,
+                78
+            ]
+        }
+    ],
+    "encounters": {
+        "pets": [
+            {
+                "firstSeenDate": 1626458737470,
+                "ID": 1,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737470,
+                "ID": 2,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737470,
+                "ID": 3,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737470,
+                "ID": 4,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737470,
+                "ID": 5,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737470,
+                "ID": 6,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737470,
+                "ID": 7,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737470,
+                "ID": 8,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737470,
+                "ID": 9,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737470,
+                "ID": 10,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737470,
+                "ID": 11,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737470,
+                "ID": 12,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737470,
+                "ID": 13,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737470,
+                "ID": 14,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737470,
+                "ID": 15,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 16,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 17,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 18,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 19,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 20,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 21,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 22,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 23,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 24,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 25,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 26,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 27,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 28,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 29,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 30,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 31,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 32,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 33,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 34,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 35,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 36,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 37,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 38,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 39,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 40,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 41,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 42,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 43,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 44,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 45,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 46,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 47,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 48,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 49,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 50,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 51,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 52,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 53,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 54,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 55,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 56,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 57,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 58,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 59,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 60,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 61,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 62,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 63,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 64,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 65,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 66,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 67,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 68,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 69,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 70,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 71,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 72,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 73,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 74,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 75,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 76,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 77,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 78,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 79,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 80,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 81,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 82,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 83,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 84,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 85,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 86,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 87,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 88,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 89,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 90,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 91,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 92,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 93,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 94,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 95,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 96,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 97,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 98,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 99,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 100,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 101,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 102,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 103,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 104,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 105,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 106,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 107,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 108,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 109,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 110,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 111,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 112,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 113,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 114,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 115,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 116,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 117,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 118,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 119,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 120,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 121,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 122,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 123,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 124,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 125,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 126,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 127,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 128,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 129,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 130,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 131,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 132,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 133,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 134,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 135,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 136,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 137,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 138,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 139,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 140,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 141,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 142,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 143,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 144,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 145,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 146,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 147,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 148,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 149,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 150,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737471,
+                "ID": 151,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737472,
+                "ID": 152,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737472,
+                "ID": 153,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737472,
+                "ID": 154,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737472,
+                "ID": 155,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737472,
+                "ID": 156,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            },
+            {
+                "firstSeenDate": 1626458737472,
+                "ID": 157,
+                "timesBattled": 9000000000,
+                "timesRescued": 9000000000
+            }
+        ],
+        "ads": []
+    },
+    "appearance": {
+        "name": {
+            "nick": 56,
+            "middle": 735,
+            "last": 824,
+            "first": 407
+        },
+        "hair": {
+            "color": 1,
+            "style": 7
+        },
+        "face": 6,
+        "gender": "male",
+        "eyeColor": 1,
+        "skinColor": 1
+    },
+    "equipment": {
+        "follow": 34
+    },
+    "house": {
+        "active": [],
+        "currentHouseTag": "forest",
+        "items": [
+            null,
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            null,
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            null,
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            null,
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            null,
+            null,
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            null,
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            null,
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1e+69
+            },
+            {
+                "A": [],
+                "N": 1
+            }
+        ],
+        "bg": {
+            "active": 1,
+            "own": [
+                1
+            ]
+        }
+    }
+}
